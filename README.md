@@ -1,2 +1,2 @@
 # RadioMovil
-App con reac native para calcular radio frecuencias
+App con react-native para calcular radio frecuencias
